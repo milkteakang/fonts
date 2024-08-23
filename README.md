@@ -8,7 +8,7 @@
 ```css
 @font-face {
     font-family: 'Freesentation1';
-    src: url('https://github.com/milkteakang/fonts/blob/main/Freesentation-2.000/Freesentation-1Thin.woff2') format('woff2');
+    src: url('https://milkteakang.github.io/fonts/Freesentation-2.000/Freesentation-1Thin.woff2') format('woff2');
     /* font-weight: 100; */
     /* font-style: normal; */
 }
