@@ -58,3 +58,6 @@
     font-family: Freesentation;
 }
 ```
+
+### sample
+- <a href="./font-test.html" target="_blank">font sample</a>

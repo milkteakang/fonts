@@ -1,0 +1,19 @@
+@font-face { font-family: 'Freesentation1'; src: url('https://milkteakang.github.io/fonts/Freesentation-2.000/Freesentation-1Thin.woff2') format('woff2'); }
+@font-face { font-family: 'Freesentation2'; src: url('https://milkteakang.github.io/fonts/Freesentation-2.000/Freesentation-2ExtraLight.woff2') format('woff2'); }
+@font-face { font-family: 'Freesentation3'; src: url('https://milkteakang.github.io/fonts/Freesentation-2.000/Freesentation-3Light.woff2') format('woff2'); }
+@font-face { font-family: 'Freesentation4'; src: url('https://milkteakang.github.io/fonts/Freesentation-2.000/Freesentation-4Regular.woff2') format('woff2'); }
+@font-face { font-family: 'Freesentation5'; src: url('https://milkteakang.github.io/fonts/Freesentation-2.000/Freesentation-5Medium.woff2') format('woff2'); }
+@font-face { font-family: 'Freesentation6'; src: url('https://milkteakang.github.io/fonts/Freesentation-2.000/Freesentation-6SemiBold.woff2') format('woff2'); }
+@font-face { font-family: 'Freesentation7'; src: url('https://milkteakang.github.io/fonts/Freesentation-2.000/Freesentation-7Bold.woff2') format('woff2'); }
+@font-face { font-family: 'Freesentation8'; src: url('https://milkteakang.github.io/fonts/Freesentation-2.000/Freesentation-8ExtraBold.woff2') format('woff2'); }
+@font-face { font-family: 'Freesentation9'; src: url('https://milkteakang.github.io/fonts/Freesentation-2.000/Freesentation-9Black.woff2') format('woff2'); }
+
+.font-free-1 { font-family: Freesentation1; }
+.font-free-2 { font-family: Freesentation2; }
+.font-free-3 { font-family: Freesentation3; }
+.font-free-4 { font-family: Freesentation4; }
+.font-free-5 { font-family: Freesentation5; }
+.font-free-6 { font-family: Freesentation6; }
+.font-free-7 { font-family: Freesentation7; }
+.font-free-8 { font-family: Freesentation8; }
+.font-free-9 { font-family: Freesentation9; }
