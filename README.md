@@ -8,7 +8,7 @@
 ```css
 @font-face {
     font-family: 'Freesentation1';
-    src: url('https://github.com/milkteakang/fonts/Freesentation-2.000/Freesentation-1Thin.woff2') format('woff2');
+    src: url('https://github.com/milkteakang/fonts/blob/main/Freesentation-2.000/Freesentation-1Thin.woff2') format('woff2');
     /* font-weight: 100; */
     /* font-style: normal; */
 }
@@ -22,13 +22,13 @@
 ```css
 @font-face {
     font-family: 'Freesentation';
-    src: url('https://github.com/milkteakang/fonts/Freesentation-2.000/Freesentation-1Thin.woff2') format('woff2');
+    src: url('https://github.com/milkteakang/fonts/blob/main/Freesentation-2.000/Freesentation-1Thin.woff2') format('woff2');
     font-weight: 100;
     /* font-style: normal; */
 }
 @font-face {
     font-family: 'Freesentation';
-    src: url('https://github.com/milkteakang/fonts/Freesentation-2.000/Freesentation-2ExtraLight.woff2') format('woff2');
+    src: url('https://github.com/milkteakang/fonts/blob/main/Freesentation-2.000/Freesentation-2ExtraLight.woff2') format('woff2');
     font-weight: 200;
     /* font-style: normal; */
 }
