@@ -60,4 +60,4 @@
 ```
 
 ### sample
-- <a href="./font-test.html" target="_blank">font sample</a>
+- <a href="https://milkteakang.github.io/fonts/font-test.html" target="_blank">font sample</a>
